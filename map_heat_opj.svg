@@ -79,7 +79,7 @@
     <text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332" x="37.737251" y="274.26727" id="text4859"><tspan sodipodi:role="line" id="tspan4857" x="37.737251" y="274.26727" style="stroke-width:0.26458332">КРА</tspan></text>
     <text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332" x="24.598244" y="286.13449" id="text4863"><tspan sodipodi:role="line" id="tspan4861" x="24.598244" y="286.13449" style="stroke-width:0.26458332">С</tspan></text>
     <text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332" x="24.202711" y="279.66367" id="text4867"><tspan sodipodi:role="line" id="tspan4865" x="24.202711" y="279.66367" style="stroke-width:0.26458332">КРЫ</tspan></text>
-    <path style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.26100206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 37.399207,278.24466 H 49 v 5.87993 H 37.399634 Z" id="RU-AD" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" inkscape:label="RU-AD" fill="#f0ff00">
+    <path d="M 37.399207,278.24466 H 49 v 5.87993 H 37.399634 Z" id="RU-AD" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" inkscape:label="RU-AD" fill="#f0ff00">
       <title id="title4881">Адыгея: 73.56</title>
     </path>
     <text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332" x="37.603619" y="282.78827" id="text4877"><tspan sodipodi:role="line" id="tspan4875" x="37.603619" y="282.78827" style="stroke-width:0.26458332">АДЫ</tspan></text>
@@ -227,10 +227,14 @@
       <title id="title5177">Нижегородская область: 71.69</title>
     </path>
     <text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332" x="95.816971" y="188.89882" id="text5181"><tspan sodipodi:role="line" id="tspan5179" x="95.816971" y="188.89882" style="stroke-width:0.26458332">НИЖ</tspan></text>
-    <path d="m 50,139 v -19 h 63.5 v 29 H 77.999999 v 13 h -13 v -23 z" id="RU-VLG" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccccc" inkscape:label="RU-VLG" fill="#ffd500">
+    <path d="m 50,139 v -19 h 63.5 v 19 H 77.999999 v 23 h -13 v -23 z" id="RU-VLG" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccccc" inkscape:label="RU-VLG" fill="#ffd500">
       <title id="title6216">Вологодская область: 71.43</title>
     </path>
     <text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332" x="75.406258" y="135.41518" id="text5187"><tspan sodipodi:role="line" id="tspan5185" x="75.406258" y="135.41518" style="stroke-width:0.26458332">ВОЛ</tspan></text>
+	<path d="m 77.999999,139 v 10 H 113.5 v -10 z" id="RU-KOS" inkscape:connector-curvature="0" inkscape:label="RU-KOS" fill="#ffe100">
+      <title id="title6225">Костромская область: 71.87</title>
+    </path>
+	<text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332" x="90.177841" y="145.71506" id="text5187-5"><tspan sodipodi:role="line" id="tspan5185-1" x="90.177841" y="145.71506" style="stroke-width:0.26458332">КОС</tspan></text>
     <path d="m 113.5,120 v 87 h 7.5 v -87 z" id="RU-KIR" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" inkscape:label="RU-KIR" fill="#fff100">
       <title id="title5191">Кировская область: 72.47</title>
     </path>
@@ -254,7 +258,6 @@
     <path d="M 50,89.000005 V 120 H 152 V 89.000005 Z" id="RU-ARK2" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" inkscape:label="RU-ARK2">
       <title id="title5231">Архангельская область</title>
     </path>
-    <text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332" x="86.328056" y="105.63503" id="text5235"><tspan sodipodi:role="line" id="tspan5233" x="86.328056" y="105.63503" style="stroke-width:0.26458332">АРХ</tspan></text>
     <path d="m 168,234 v -39 h 16 v 39 l -14.28869,-0.12202 z" id="RU-OMS" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccc" inkscape:label="RU-OMS" fill="#ffe300">
       <title id="title5295">Омская область: 71.96</title>
     </path>
@@ -347,6 +350,7 @@
     <path d="M 50,89.000005 V 120 h 80 V 89.000005 Z" id="RU-ARK" inkscape:connector-curvature="0" inkscape:label="RU-ARK" fill="#ffe600">
       <title id="title5447">Архангельская область: 72.09</title>
     </path>
+	<text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332" x="86.328056" y="105.63503" id="text5235"><tspan sodipodi:role="line" id="tspan5233" x="86.328056" y="105.63503" style="stroke-width:0.26458332">АРХ</tspan></text>
     <path d="m 152,129 v 58 h 16 v -58 z" id="RU-KHM" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" inkscape:label="RU-KHM" fill="#dcff00">
       <title id="title5451">Ханты-Мансийский автономный округ — Югра: 74.28</title>
     </path>
